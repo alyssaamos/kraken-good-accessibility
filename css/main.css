@@ -90,6 +90,8 @@ nav a {
   padding: .5rem;
   width: 2.5rem;
   height: 2.5rem;
+  outline: .15rem solid #000;
+  outline-offset: .1rem;
 }
 
 nav a:hover,
