@@ -90,13 +90,13 @@ nav a {
   padding: .5rem;
   width: 2.5rem;
   height: 2.5rem;
-  outline: .15rem solid #000;
-  outline-offset: .1rem;
 }
 
 nav a:hover,
 nav a:focus {
   background-color: #1e7c74;
+  outline: .15rem solid #000;
+  outline-offset: .1rem;
 }
 
 .icon {
